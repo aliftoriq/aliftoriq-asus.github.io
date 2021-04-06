@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    width: 1400px;
+    margin: auto;
+}
+
+.head{
+    padding: 20px;
+    height: 50px;
+   
+}
+
+.head img{
+    width: 100px;
+    float: left;
+    padding-left: 20px;
+    padding-right: 80px;
+    
+}
+
+
+
+.nav a{
+   
+    text-align: justify;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    width: 200px;
+    float: left;
+    
+    
+}
+
+.nav a:hover{
+    color: rgb(255, 255, 255);
+}
+
+.utama img{
+    width: 98%;
+
+}
+
+h3{
+    color: white;
+}
+
+.utama p{
+    color: white;
+}
+
+.deskripsi ul{
+    color: white;
+}
+
+.footer{
+    width: 100%;
+    height: 40px;
+    background-color: rgba(4, 5, 5, 0.199);
+    
+}
+
+.footer .c{
+    color: aliceblue;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 10px;
+}
